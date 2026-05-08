@@ -26,3 +26,5 @@ console.log(`🚀 Creating capsule for: ${username}...`);
 
 // 3. CALL the function from Partner B to save the data
 // ?? (capsuleData);
+
+console.log(`🚀 Creating new for: ${username}...`);
